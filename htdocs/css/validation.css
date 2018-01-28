@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ok, .info, .error {
+	padding: 0px 2px;
+}
+
+.ok {
+	background: #cfc;
+	border: 2px solid #9c9;
+	margin-left:5px;
+}
+
+.info {
+	background: #ffc;
+	border: 2px solid #cc9;
+}
+
+.error {
+	background: #fcc;
+	border: 2px solid #c99;
+}
